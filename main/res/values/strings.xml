@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JQB_0.1</string>
+    <string name="login">Login</string>
+    <string name="sign_in">Sign in</string>
+    <string name="password">Password</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="gmail">Gmail</string>
+    <string name="test">Test</string>
+    <string name="to_start_the_test_verify_your_email_at_first_after_verifying_log_out_and_sign_in_again">To start the test, verify your email at first. After verifying, log out and sign in again.</string>
+    <string name="suggestion_button_will_be_enabled_after_passing_the_test">Suggestion button will be enabled after passing the test.</string>
+    <string name="log_out">Log out</string>
+    <string name="textview">TextView</string>
+</resources>
